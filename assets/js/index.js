@@ -17,7 +17,6 @@ fields.addEventListener("click", (e) => {
    background-color: #303952;
    color: green;
    font-size: 6rem;
-   text-align: center;
    color: #ecf0f1;
    font-weight: bold;
    text-shadow: 3px 6px 9px #f5cd79`;
@@ -26,7 +25,6 @@ fields.addEventListener("click", (e) => {
    background-color: #596275;
    color: green;
    font-size: 6rem;
-   text-align: center;
    color: #ecf0f1;
    font-weight: bold;
    text-shadow: 3px 6px 9px #f5cd79`;
@@ -35,7 +33,6 @@ fields.addEventListener("click", (e) => {
    background-color: #c44569;
    color: green;
    font-size: 6rem;
-   text-align: center;
    color: #ecf0f1;
    font-weight: bold;
    text-shadow: 3px 6px 9px #f5cd79`;
@@ -44,7 +41,6 @@ fields.addEventListener("click", (e) => {
    background-color: #cf6a87;
    color: green;
    font-size: 6rem;
-   text-align: center;
    color: #ecf0f1;
    font-weight: bold;
    text-shadow: 3px 6px 9px #f5cd79`;
@@ -53,7 +49,6 @@ fields.addEventListener("click", (e) => {
    background-color: #e77f67;
    color: green;
    font-size: 6rem;
-   text-align: center;
    color: #ecf0f1;
    font-weight: bold;
    text-shadow: 3px 6px 9px #f5cd79`;
@@ -62,7 +57,6 @@ fields.addEventListener("click", (e) => {
    background-color: #ea8685;
    color: green;
    font-size: 6rem;
-   text-align: center;
    color: #ecf0f1;
    font-weight: bold;
    text-shadow: 3px 6px 9px #f5cd79`;
@@ -71,7 +65,6 @@ fields.addEventListener("click", (e) => {
    background-color: #e66767;
    color: green;
    font-size: 6rem;
-   text-align: center;
    color: #ecf0f1;
    font-weight: bold;
    text-shadow: 3px 6px 9px #f5cd79`;
@@ -80,7 +73,6 @@ fields.addEventListener("click", (e) => {
    background-color: #574b90;
    color: green;
    font-size: 6rem;
-   text-align: center;
    color: #ecf0f1;
    font-weight: bold;
    text-shadow: 3px 6px 9px #f5cd79`;
@@ -89,7 +81,6 @@ fields.addEventListener("click", (e) => {
    background-color: #f3a683;
    color: green;
    font-size: 6rem;
-   text-align: center;
    color: #ecf0f1;
    font-weight: bold;
    text-shadow: 3px 6px 9px #f5cd79`;
